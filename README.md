@@ -26,3 +26,5 @@ There is a 1:1 match between `bumpVersion` options and Poetry commands that shou
 "patch"               | `poetry version patch`
 "minor"               | `poetry version minor`
 "major"               | `poetry version major`
+
+Poetry documentation: https://python-poetry.org/docs/cli/#version
