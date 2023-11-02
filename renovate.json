@@ -3,5 +3,6 @@
   "extends": [
     "config:base"
   ],
-  "bumpVersion": "patch"
+  "bumpVersion": "patch",
+  "rebaseWhen": "behind-base-branch"
 }
