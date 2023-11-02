@@ -5,11 +5,11 @@ Minimal reproduction repository for [issues/16704](https://github.com/renovatebo
 ## Current state
 
 In [pull/2](https://github.com/chopeen/renovate-issue-16704/pull/2), Renovate proposed an update
-from `requests` package:
+for the `requests` package:
 
 ![As-is state](./images/as-is.png)
 
-This change is **incomplete**.
+That is correct, but **incomplete**.
 
 ## Expected state
 
